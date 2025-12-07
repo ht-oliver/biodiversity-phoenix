@@ -25,20 +25,22 @@ The `data` folder in this repository is empty, but should be populated as indica
 
 ### Data
 
- - Biodiversity Intactness Index (BII) Time Series
+ - [3]Biodiversity Intactness Index (BII) Time Series
  Source: https://planetarycomputer.microsoft.com/dataset/io-biodiversity
  This data will be accessed remotely, and does not need to be downloaded
  
  
  
- - Arizona State Count Subdivision Shapefile
+ - [4]Arizona State Count Subdivision Shapefile
  Source: https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-arizona-county-subdivision
  This data will need to be downloaded and put into the a folder titled `data` within the repository base
 
 ### References
 
-**Biodiversity Intactness Index (BII) Time Series**
-Microsoft Planetary Computer. (n.d.). Biodiversity Intactness Index (BII) Time Series. Retrieved December 6, 2025, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
+[1] Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021. Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024]
 
-**Arizona State County Subdivision Shapefile**
-U.S. Census Bureau. (n.d.). TIGER/Line Shapefile: Current State of Arizona County Subdivision. Data.gov. Retrieved December 6, 2025, from https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-arizona-county-subdivision
+[2] F. Gassert, J. Mazzarello, and S. Hyde, “Global 100m Projections of Biodiversity Intactness for the years 2017-2020 [Technical Whitepaper],” Aug. 2022. Available: https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf. [Accessed: Dec. 6, 2025]
+
+[3] Microsoft Planetary Computer, “Biodiversity Intactness Index (BII) Time Series,” Available: https://planetarycomputer.microsoft.com/dataset/io-biodiversity. [Accessed: Dec. 6, 2025]
+
+[4] U.S. Census Bureau, “TIGER/Line Shapefile: Current State of Arizona County Subdivision,” Data.gov, Available: https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-arizona-county-subdivision. [Accessed: Dec. 6, 2025]
